@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Manuel Pérez </b><
+<h1 align="center"><b>Hi , I'm Manuel Pérez </b>
 <!--  -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+ngineer+student%2C+;Data+analysis+%7C+Data+base+building+%7C+SQL;Active+Learner%2FResearcher;Love+challenges+and+to+learn+new+stuff" alt="Typing SVG" /></a>
