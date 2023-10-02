@@ -16,8 +16,11 @@
 
 
 <br>
+
 - Student of software engineer at Universidad de Montevideo
+
 - Currently at my firs year but with experience in sql, data analytics and data base building
+
 - I’m currently open for an Intern or a new job opportunity, this is [My Linkedin](linkedin.com/in/manuel-pérez-2713b2244)
 
 <br><br>
